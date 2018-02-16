@@ -1,2 +1,7 @@
 *.class
 *.log
+ivyrepo/*
+*.cache
+project/*
+sbtboot/*
+target/*
